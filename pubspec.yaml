@@ -19,3 +19,4 @@ flutter:
   uses-material-design: true
   assets:
     - img/diamond.png
+    - img/icons8_british_pound_24px.png
